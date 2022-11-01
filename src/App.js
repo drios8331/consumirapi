@@ -41,7 +41,7 @@ function App() {
           onPrevious={onPrevious}
           onNext={onNext}
         />
-        <Characters characters={characters} />
+        <Characters characters={characters} className=""/>
         <Pagination prev={info.prev}
           next={info.next}
           onPrevious={onPrevious}
