@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/consumirapi/build/static/js/main.742c5125.js",
+    "index.html": "/consumirapi/build/index.html",
+    "main.742c5125.js.map": "/consumirapi/build/static/js/main.742c5125.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.742c5125.js"
+  ]
+}
