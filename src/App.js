@@ -33,7 +33,7 @@ function App() {
 
   return (
     <>
-      <Navbar texto="Prueba Navbar" />
+      <Navbar texto="Galeria de Imagenes" />
       <div className="container">
         <Pagination
           prev={info.prev}
