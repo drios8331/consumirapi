@@ -33,7 +33,7 @@ function App() {
 
   return (
     <>
-      <Navbar texto="Prueba Navbar" />
+      <Navbar texto="Navbar - Conexion API The Rick and Morty" />
       <div className="container">
         <Pagination
           prev={info.prev}
